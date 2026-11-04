@@ -6,10 +6,10 @@ This repository contains official Safety Sherpa branding assets used in authoriz
 
 **Copyright © 2026 Safety Sherpa. All Rights Reserved.**
 
-The Safety Sherpa name, logos, graphics, and associated branding materials are proprietary assets of their respective rights holders.
+The Safety Sherpa name, logos, and associated branding materials are proprietary to their respective rights holders.
 
-These materials are made publicly accessible solely to support their display in authorized Safety Sherpa communications and reporting systems.
+These assets are publicly accessible solely to support their display in authorized Safety Sherpa communications and reporting systems.
 
-Public access to this repository does not grant permission to copy, modify, redistribute, sublicense, or use these materials for independent commercial purposes without authorization from the appropriate rights holder.
+Public availability does not grant permission to reproduce, modify, redistribute, sublicense, or commercially use these materials without authorization from the applicable rights holder.
 
 **No open-source license is granted for the branding assets in this repository.**
